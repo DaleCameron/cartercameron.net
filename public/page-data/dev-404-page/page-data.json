@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---cache-dev-404-page-js",
     "path": "/dev-404-page/",
-    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/using-dsg"},{"path":"/404/"},{"path":"/404.html"},{"path":"/about/"},{"path":"/crypto/"},{"path":"/finance/"},{"path":"/"},{"path":"/reseach/"},{"path":"/research/"},{"path":"/books/book1/"}]}},"pageContext":{}},
-    "staticQueryHashes": []}
+    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/using-dsg"},{"path":"/404/"},{"path":"/404.html"},{"path":"/"},{"path":"/books/book1/"},{"path":"/crypto/"},{"path":"/finance/"},{"path":"/research/"},{"path":"/about/"}]}},"pageContext":{}},
+    "staticQueryHashes": ["3649515864","63159454"]}

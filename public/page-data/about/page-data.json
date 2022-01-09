@@ -1,5 +1,5 @@
 {
-    "componentChunkName": "component---src-pages-about-js",
+    "componentChunkName": "component---src-pages-about-mdx",
     "path": "/about/",
-    "result": {"pageContext":{}},
+    "result": {"pageContext":{"frontmatter":{}}},
     "staticQueryHashes": ["3649515864","63159454"]}
