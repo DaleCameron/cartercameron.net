@@ -1,3 +1,10 @@
+#Mac Stuff
+.DS_Store
+
+#Gatsby Stuff
+/public
+/static
+
 # Logs
 logs
 *.log
